@@ -7,6 +7,9 @@ Land of the free and the home of the brave.
 ---- Canada [JS]
 Best place to find the maple leaf, maple syrup and stereotypically nice people.
 
+---- Mexico [JS]
+Mexico City used to be the Aztec capital of Tenochtitlan.
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
