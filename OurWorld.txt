@@ -1,4 +1,4 @@
-Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM], Callum Nolan [CN]
+Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM], Callum Nolan [CN] 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
