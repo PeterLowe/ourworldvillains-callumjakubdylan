@@ -1,23 +1,40 @@
-Compiled by Peter Lowe [PL], Callum Nolan [CN]
-
+Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM], Callum Nolan [CN] 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
+---- Canada[DM]
+
+---- Panama [cn]
+My favourite Van Halen song
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+
+---- Romania [cn]
+~Romania bug fix 5.02~
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
 
+----- Ghana [cn]
+I got mugged here once
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 
+------ Taiwan [cn]
+A country :)
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
+
+----- New Zealand [cn] 
+Australia in a hat and moustache
+
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
