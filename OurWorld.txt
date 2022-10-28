@@ -4,12 +4,19 @@ Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM], Callum Nolan
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada[DM]
+---- Canada [JS]
+Best place to find the maple leaf, maple syrup and stereotypically nice people.
+
+---- Mexico [JS]
+Mexico City used to be the Aztec capital of Tenochtitlan.
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
 
+---- Poland [JS]
+The castle in Krakow was home to the kings of Poland while Krakow was the capital.
+=======
 
 ---- Portugal [DM]
 vacation, all i ever wanted
