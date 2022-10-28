@@ -4,8 +4,10 @@ Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM],
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
----- Canada
+---- United States of America [pl]
 Land of the free and the home of the brave.
+
+---- Canada[DM]
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
