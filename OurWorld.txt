@@ -1,4 +1,6 @@
-Compiled by Peter Lowe [PL], Dylan Manley [DM],
+
+Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM],
+>>>>>>> d2aa78ac367c99626e3d36c742d77875529ce326
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
