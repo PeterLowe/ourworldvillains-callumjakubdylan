@@ -4,7 +4,11 @@ Compiled by Peter Lowe [PL], Jakub Stepien [JS], Dylan Manley [DM], Callum Nolan
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada[DM]
+---- Canada [JS]
+Best place to find the maple leaf, maple syrup and stereotypically nice people.
+
+---- Mexico [JS]
+Mexico City used to be the Aztec capital of Tenochtitlan.
 
 ---- Panama [cn]
 My favourite Van Halen song
@@ -13,33 +17,50 @@ My favourite Van Halen song
 ---- France [pl]
 Ooh la la! 
 
+---- Poland [JS]
+The castle in Krakow was home to the kings of Poland while Krakow was the capital.
+=======
+
 ---- Portugal [DM]
 vacation, all i ever wanted
 
 ---- Romania [cn]
 ~Romania bug fix 5.02~
 
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
 
------ Nigeria [Dm]
+
+----- Nigeria [DM]
+
+---- Kenya [JS]
+Best place in the world for a safari.
 
 ----- Ghana [cn]
 I got mugged here once
+
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 
+
+
 ------ Taiwan [cn]
-A country :)
+A country 
+
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
+The only thing more unthinkable than leaving was staying; 
+the only thing more impossible than staying was leaving.
+
+
 
 ----- New Zealand [cn] 
 Australia in a hat and moustache
 
-The only thing more unthinkable than leaving was staying; 
-the only thing more impossible than staying was leaving.
+----- Antarctica[DM]
+Cold cold cold, cold as ice
